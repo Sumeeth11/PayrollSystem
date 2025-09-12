@@ -6,7 +6,7 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Role-Based Access**
   - **Admin**: Full access to manage employees and generate reports.  
@@ -39,32 +39,17 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Java (Core + JDBC) – Backend logic and database connectivity  
 - MySQL – Database management  
 - IntelliJ IDEA / Eclipse – Development environment  
 - Git & GitHub – Version control and hosting  
 
----
-
-## 📂 Project Structure
-
-PayrollSystem/
-│── src/
-│ ├── dao/ # Data Access Objects (EmployeeDAO, UserDAO)
-│ ├── model/ # Entity classes (Employee, User)
-│ ├── util/ # Utility (DBConnection)
-│ ├── main/ # Main entry point (PayrollSystem.java)
-│── database.sql # SQL script to set up schema and tables
-│── EmployeeReport.csv # Sample CSV report (optional)
-│── README.md # Project documentation
-│── screenshots/ # Console screenshots (optional)
-
 
 ---
 
-## 🗄 Database Setup
+## Database Setup
 
 Run the following SQL script (`database.sql`) in MySQL:
 
@@ -99,31 +84,34 @@ INSERT INTO users (username, password, role, employee_id)
 VALUES 
 ('admin', 'admin123', 'admin', NULL),
 ('emp', 'emp123', 'employee', 1);
+```
+---
 
-## ▶ How to Run
+##  How to Run
 
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/Sumeeth11/payroll-system.git
-2.Open the project in IntelliJ IDEA (or Eclipse).
+2. **Open the project in IntelliJ IDEA (or Eclipse).**
 
-3.Set up the database:
+3. **Set up the database:**
 Open MySQL Workbench or terminal.
 Run the database.sql script provided in this repo to create the schema and tables.
 
-4.Update DB credentials in DBConnection.java with your MySQL username and password:
+4. **Update DB credentials in DBConnection.java with your MySQL username and password:**
 connection = DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/payroll_db", "root", "Sumeeth@2003");
 
-5.Compile and run the main class:
+5. **Compile and run the main class:**
 PayrollSystem.java
 
-6.Login credentials (sample):
+6. **Login credentials (sample):**
 Admin → username: admin, password: admin123
 Employee → username: emp, password: emp123
 
+---
 
-Author
+## Author
 Sumeeth Sangat – Final Year CSE Student
 📧 Email: sumeethsangat@gmail.com
 🔗 GitHub: Sumeeth11
