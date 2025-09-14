@@ -110,9 +110,11 @@ Admin → username: admin, password: admin123
 Employee → username: emp, password: emp123
 
 
-
 ## Author
-- Sumeeth Sangat – Final Year CSE Student
-- Email: sumeethsangat@gmail.com
-- GitHub: Sumeeth11
-- LinkedIn: linkedin.com/in/sumeethsangat
+
+**Sumeeth Sangat** – Final Year CSE Student  
+
+-  [Email](mailto:sumeethsangat@gmail.com)  
+-  [GitHub](https://github.com/Sumeeth11)  
+-  [LinkedIn](https://www.linkedin.com/in/sumeethsangat)  
+
