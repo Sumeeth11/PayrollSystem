@@ -44,7 +44,29 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 - Java (Core + JDBC) – Backend logic and database connectivity  
 - MySQL – Database management  
 - IntelliJ IDEA – Development environment  
-- Git & GitHub – Version control and hosting  
+- Git & GitHub – Version control and hosting
+
+
+ ## Project Structure
+ ```
+PayrollSystem/
+│── src/
+│   ├── dao/
+│   │   ├── EmployeeDAO.java
+│   │   └── UserDAO.java
+│   ├── model/
+│   │   ├── Employee.java
+│   │   └── User.java
+│   ├── util/
+│   │   └── DBConnection.java
+│   └── main/
+│       └── PayrollSystem.java
+│── database.sql         
+│── README.md
+│── EmployeeReport.csv   
+│── screenshots/         
+
+```
 
 
 
