@@ -43,7 +43,7 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 
 - Java (Core + JDBC) – Backend logic and database connectivity  
 - MySQL – Database management  
-- IntelliJ IDEA / Eclipse – Development environment  
+- IntelliJ IDEA – Development environment  
 - Git & GitHub – Version control and hosting  
 
 
