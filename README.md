@@ -4,7 +4,7 @@ A **Java-based payroll management system** built with **JDBC and MySQL**, design
 It provides secure login, salary calculation, CRUD operations on employees, reporting, and CSV export.  
 This project demonstrates **Core Java, JDBC, database integration, role-based access, and error handling** — ideal for fresher-level resumes and interviews.  
 
----
+
 
 ## Features
 
