@@ -112,7 +112,7 @@ Employee → username: emp, password: emp123
 
 ## Author
 
-**Sumeeth Sangat** – Final Year CSE Student  
+**Sumeeth Sangat**
 
 -  [Email](mailto:sumeethsangat@gmail.com)  
 -  [GitHub](https://github.com/Sumeeth11)  
