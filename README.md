@@ -37,7 +37,7 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 - **Navigation**
   - After each operation, return to the main menu or exit  
 
----
+
 
 ## Tech Stack
 
@@ -47,7 +47,7 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 - Git & GitHub – Version control and hosting  
 
 
----
+
 
 ## Database Setup
 
@@ -85,7 +85,7 @@ VALUES
 ('admin', 'admin123', 'admin', NULL),
 ('emp', 'emp123', 'employee', 1);
 ```
----
+
 
 ##  How to Run
 
@@ -109,10 +109,10 @@ PayrollSystem.java
 Admin → username: admin, password: admin123
 Employee → username: emp, password: emp123
 
----
+
 
 ## Author
-Sumeeth Sangat – Final Year CSE Student
-📧 Email: sumeethsangat@gmail.com
-🔗 GitHub: Sumeeth11
-🔗 LinkedIn: linkedin.com/in/sumeethsangat
+- Sumeeth Sangat – Final Year CSE Student
+- Email: sumeethsangat@gmail.com
+- GitHub: Sumeeth11
+- LinkedIn: linkedin.com/in/sumeethsangat
