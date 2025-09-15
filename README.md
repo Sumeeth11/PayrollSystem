@@ -2,7 +2,9 @@
 
 A **Java-based payroll management system** built with **JDBC and MySQL**, designed for both **Admin** and **Employee** roles.  
 It provides secure login, salary calculation, CRUD operations on employees, reporting, and CSV export.  
-This project demonstrates **Core Java, JDBC, database integration, role-based access, and error handling** — ideal for fresher-level resumes and interviews.  
+This project demonstrates **Core Java, JDBC, database integration, role-based access, and error handling**   
+
+
 
 
 
@@ -37,10 +39,17 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 - **Navigation**
   - After each operation, return to the main menu or exit
  
+
+
+ 
 ##  Screenshots  
 
 ### 1. Login Page  
-![Login Screenshot](screenshots/login_admin.png)
+<p float="left">
+  <img src="screenshots/login_admin.png" width="30%" />
+  <img src="screenshots/login_employee.png" width="35%" />
+</p>
+
 
 ### 2. Admin Menu  
 ![Admin Menu](screenshots/Admin_menu.png)
@@ -57,12 +66,15 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
 
 
 
+
 ## Tech Stack
 
 - Java (Core + JDBC) – Backend logic and database connectivity  
 - MySQL – Database management  
 - IntelliJ IDEA – Development environment  
 - Git & GitHub – Version control and hosting
+
+
 
 
  ## Project Structure
@@ -80,11 +92,11 @@ PayrollSystem/
 │   └── main/
 │       └── PayrollSystem.java
 │── database.sql         
-│── README.md
-│── EmployeeReport.csv   
+│── README.md   
 │── screenshots/         
 
 ```
+
 
 
 
@@ -127,6 +139,8 @@ VALUES
 ```
 
 
+
+
 ##  How to Run
 
 1. **Clone this repository:**
@@ -148,6 +162,9 @@ PayrollSystem.java
 6. **Login credentials (sample):**
 Admin → username: admin, password: admin123
 Employee → username: emp, password: emp123
+
+
+
 
 
 ## Author
