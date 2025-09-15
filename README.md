@@ -131,8 +131,6 @@ PayrollSystem.java
 Admin → username: admin, password: admin123
 Employee → username: emp, password: emp123
 
-## Screenshots
-![login](<img width="252" height="78" alt="login_admin" src="https://github.com/user-attachments/assets/18e69565-2fde-4951-bfff-19fe107b3d19" />)
 
 ## Author
 
