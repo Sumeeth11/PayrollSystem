@@ -35,7 +35,25 @@ This project demonstrates **Core Java, JDBC, database integration, role-based ac
   - Confirmation prompts before delete and exit  
 
 - **Navigation**
-  - After each operation, return to the main menu or exit  
+  - After each operation, return to the main menu or exit
+ 
+##  Screenshots  
+
+### 1. Login Page  
+![Login Screenshot](screenshots/login_admin.png)
+
+### 2. Admin Menu  
+![Admin Menu](screenshots/Admin_menu.png)
+
+### 3. Employee Menu  
+![Employee Menu](screenshots/Employee_menu.png)
+
+### 4. View All Employees  
+![View Employees](screenshots/View_all_Employees.png)
+
+### 5. Generate Report  
+![Generate Report](screenshots/Generate_report.png)
+
 
 
 
